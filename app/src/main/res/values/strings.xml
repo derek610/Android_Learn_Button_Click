@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloWord001</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="button01">這是個按鈕</string>
+    <string name="button01_click_toast">按鈕被點擊了</string>
+</resources>
